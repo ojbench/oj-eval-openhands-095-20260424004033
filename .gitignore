@@ -1,0 +1,8 @@
+# Compiled binaries
+test
+*.o
+*.out
+*.exe
+
+# Test files
+test_input.txt
